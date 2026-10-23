@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E4C59E;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #322C2B !important;
+}
+
+/* Hero */
+.hero {
+  background: url('https://wiratech.co.id/wp-content/uploads/2023/12/Cara-Membuat-Lapis-Legit.jpg') center/cover;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+/* Overlay */
+.overlay {
+  background-color: rgba(50, 44, 43, 0.75);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+/* Judul */
+h2 {
+  color: #803D3B;
+}
+
+/* Card */
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+/* Button beli */
+.btn-primary {
+  background-color: #AF8260;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #803D3B;
+}
+
+/* Button hero */
+.btn-warning {
+  background-color: #E4C59E;
+  border: none;
+  color: #322C2B;
+}
+
+/* Table */
+.table-dark {
+  background-color: #322C2B !important;
+}
+
+/* List */
+.list-group-item {
+  background-color: #E4C59E;
+  border: none;
+}
+
+/* Footer */
+footer {
+  background-color: #322C2B;
+}
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+.btn-primary {
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  transform: scale(1.05);
+}
+.hero h1 {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.card p {
+  font-style: italic;
+}
+
+.card small {
+  color: #803D3B;
+}
